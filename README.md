@@ -37,3 +37,6 @@ Telegram  <->  telegram.py (laptop)  <->  USB serial  <->  ESP32 (flashBot.ino) 
 
 ## Printer protocol
 Commands follow the community [Flashforge API docs (Parallel-7)](https://github-wiki-see.page/m/Parallel-7/flashforge-api-docs/wiki/Adventurer-3-Series).
+
+## Licence
+MIT. See `LICENSE`.
